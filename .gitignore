@@ -1,0 +1,11 @@
+byte_decoder
+*.exe
+*.out
+*.o
+*.tmp
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+input.bin
