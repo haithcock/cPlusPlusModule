@@ -14,6 +14,15 @@ This is a new repository demonstrating my knowledge in C++. This is a simple bin
 # tools
     -Code OSS the VS Code open source software alternative without microsoft telemetry data requirements. The operating system I used was CachyOS an ArchLinux distro. The Test file I ran was on a 
 # Programming language and libraries
+    -Language:C++
+    -Libraries: #include <cstdint>
+                #include <string>
+                #include <vector>
+                #include <fstream>
+                #include <iostream>
+                #include <iomanip>
+                #include <ios>
+                #include <ostream>
 
 
 
@@ -21,13 +30,14 @@ This is a new repository demonstrating my knowledge in C++. This is a simple bin
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [C++Documentation]https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170
+
+- [GCC online documentation](https://gcc.gnu.org/onlinedocs/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Add: A way to somehow scan for whole strings instead of single letters
+- Improve: Testing measures on different file types. I just tested it with the most basic .bin file.
+- Improve: Clean up and write better documentation. 
